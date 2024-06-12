@@ -1,0 +1,20 @@
+- libraries for SCIANForce -
+> numpy     / pip install numpy
+> tkinter   / pip install tk
+> pandas    / pip install pandas
+> openpyxl  / pip install openpyxl
+> PIL       / pip install pillow
+> pymeshfix / pip install pymeshfix
+> plotly    / pip install plotly
+> trimesh   / pip install trimesh
+> rtree     / pip install rtree
+> scipy     / pip install scipy
+
+---------------------------------------
+
+- libraries for SCIANDrop -
+> openCV    / pip install opencv-python
+> numpy     / pip install numpy
+> tkinter   / pip install tk
+> scipy     / pip install scipy
+> PIL       / pip install pillow
